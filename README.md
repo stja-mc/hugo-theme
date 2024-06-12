@@ -1,6 +1,9 @@
 # Hugo Theme
 This Theme is a fork of [Tailbliss](https://github.com/nusserstudios/tailbliss).
 
+## Archived
+We integrated the Theme into our Website Repo: https://github.com/stja-mc/website
+
 
 ## License
 [Apache-2.0 license](http://www.apache.org/licenses/): Copyright 2022 NusserStudios
